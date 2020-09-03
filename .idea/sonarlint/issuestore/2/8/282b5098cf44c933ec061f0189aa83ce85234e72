@@ -1,0 +1,9 @@
+
+D
+java:S1481,")Remove this unused "tel1" local variable.(³¸Õ¯ÿÿÿÿÿ
+D
+java:S1481)")Remove this unused "car1" local variable.(É¹ùÁýÿÿÿÿ
+S
+java:S1854)"8Remove this useless assignment to local variable "car1".(É¹ùÁýÿÿÿÿ
+S
+java:S1854,"8Remove this useless assignment to local variable "tel1".(³¸Õ¯ÿÿÿÿÿ

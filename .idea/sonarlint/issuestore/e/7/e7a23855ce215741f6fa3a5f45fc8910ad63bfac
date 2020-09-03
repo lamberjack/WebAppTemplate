@@ -1,0 +1,25 @@
+
+W
+java:S1854]"5Remove this useless assignment to local variable "s".(ÏØè†ýÿÿÿÿ8›‹Š¦º.
+`
+java:S1858"D"s" is already a string, there's no need to call "toString()" on it.(Ó‚àP8‚êé£º.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÓý¦8ÐÃç£º.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(Ù£ÈÆúÿÿÿÿ8›‹Š¦º.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+]	java:S125 "<This block of commented-out lines of code should be removed.(ƒØíÅÿÿÿÿÿ8‚êé£º.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œµÂ³þÿÿÿÿ8Üå£º.
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+]
+java:S1144c";Remove this unused private "triFunctionApplication" method.(±‹š¸ÿÿÿÿÿ8›‹Š¦º.
+8
+java:S16439"Use a StringBuilder instead.(Í¡ÿ/8²Ú‡¦º.
+^
+java:S1128"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ8ÙðÝ¢º.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18ÁÄÔ£º.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‚àP8‚êé£º.
+f
+java:S1854H"DRemove this useless assignment to local variable "matchedNumberStr".(û´Ð®ÿÿÿÿÿ8²Ú‡¦º.
+j
+java:S53614"HReplace this call to "replaceAll()" by a call to the "replace()" method.(æýÞÎþÿÿÿÿ8²Ú‡¦º.
