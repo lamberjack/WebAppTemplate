@@ -16,7 +16,7 @@ import patterns.factory.Telefono;
 import patterns.factory.TelefonoFactory;
 import patterns.singleton.SingletonExample;
 
-public class TestPattern {
+public class TestPatternMain {
 
     public static void main(String[] args) {
         ////////////////////////////////
